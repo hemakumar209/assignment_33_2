@@ -1,0 +1,16 @@
+1. Create a Filled map by using the column State. Denote each state with different colors.
+   Ans:
+      Drag state on to columns and also on to color
+
+2. Show the State Name and Total Sales in the lables
+   Ans:
+       Drag state and Total Sales on to Label
+   
+3. Show the tooltip with State Name, Profit and Sales
+   Ans:
+       Drag state name,sum(profit),sum(sales) on to Tooltip
+
+
+
+
+   for refrence see Tableau_assignment_33_1_2 
